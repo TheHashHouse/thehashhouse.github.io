@@ -134,6 +134,19 @@ h4 {
   color: white;
 }
 
+.linkuwu {
+  border-radius: 3px;
+  padding: 2px;
+  font-weight: 500;
+  color: #BFBD40;
+  background: rgba(114, 137, 218, 0.1);
+}
+
+.linkuwu:hover {
+  background: #DEDC4E;
+  color: white;
+}
+
 #discordData,
 #discordInfo {
   display: flex;
